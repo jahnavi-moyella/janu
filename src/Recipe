@@ -1,0 +1,129 @@
+{
+  "uri": "string",
+  "url": "string",
+  "yield": 0,
+  "calories": 0,
+  "glycemicIndex": 0,
+  "inflammatoryIndex": 0,
+  "co2EmissionsClass": "string",
+  "totalWeight": 0,
+  "dietLabels": [
+    "BALANCED"
+  ],
+  "healthLabels": [
+    "FAT_FREE"
+  ],
+  "cautions": [
+    "GLUTEN"
+  ],
+  "totalNutrients": {
+    "additionalProp1": {
+      "label": "string",
+      "tag": "string",
+      "units": "string"
+    },
+    "additionalProp2": {
+      "label": "string",
+      "tag": "string",
+      "units": "string"
+    },
+    "additionalProp3": {
+      "label": "string",
+      "tag": "string",
+      "units": "string"
+    }
+  },
+  "totalNutrientsKCal": {
+    "additionalProp1": {
+      "label": "string",
+      "quantity": 0,
+      "unit": "string"
+    },
+    "additionalProp2": {
+      "label": "string",
+      "quantity": 0,
+      "unit": "string"
+    },
+    "additionalProp3": {
+      "label": "string",
+      "quantity": 0,
+      "unit": "string"
+    }
+  },
+  "totalDaily": {
+    "additionalProp1": {
+      "label": "string",
+      "tag": "string",
+      "units": "string"
+    },
+    "additionalProp2": {
+      "label": "string",
+      "tag": "string",
+      "units": "string"
+    },
+    "additionalProp3": {
+      "label": "string",
+      "tag": "string",
+      "units": "string"
+    }
+  },
+  "ingredientLines": [
+    "string"
+  ],
+  "label": "string",
+  "preparation": [
+    "string"
+  ],
+  "ingredients": [
+    {
+      "quantity": 0,
+      "measure": "string",
+      "measureURI": "string",
+      "foodMatch": "string",
+      "food": "string",
+      "foodId": "string",
+      "foodURI": "string",
+      "specificFoodURI": "string",
+      "foodCategory": "string",
+      "brand": "string",
+      "weight": 0,
+      "retainedWeight": 0,
+      "nutrients": {
+        "additionalProp1": {
+          "label": "string",
+          "tag": "string",
+          "units": "string"
+        },
+        "additionalProp2": {
+          "label": "string",
+          "tag": "string",
+          "units": "string"
+        },
+        "additionalProp3": {
+          "label": "string",
+          "tag": "string",
+          "units": "string"
+        }
+      },
+      "status": "OK",
+      "template": "string",
+      "servingSizes": [
+        {
+          "uri": "string",
+          "label": "string",
+          "quantity": 0
+        }
+      ],
+      "servingsPerContainer": 0
+    }
+  ],
+  "cuisineType": [
+    "string"
+  ],
+  "mealType": [
+    "string"
+  ],
+  "dishType": [
+    "string"
+  ]
+}
